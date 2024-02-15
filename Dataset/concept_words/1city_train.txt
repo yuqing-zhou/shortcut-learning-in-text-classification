@@ -1,0 +1,60 @@
+Accra
+Beirut
+Helsinki
+Tianjin
+Marrakech
+Jakarta
+Milan
+Athens
+Las Vegas
+San Francisco
+Guangzhou
+Nairobi
+Fairfax
+Oslo
+Buenos Aires
+Detroit
+Sacramento
+Manila
+Philadelphia
+San Jose
+Tunis
+Rio de Janeiro
+Paris
+Lima
+Atlanta
+Zurich
+Moscow
+St. Petersburg
+Rome
+Los Angeles
+Birmingham
+Boston
+Mexico City
+Phoenix
+Warsaw
+Shanghai
+Bogotá
+Chengdu
+Kuala Lumpur
+Cape Town
+Munich
+Hamburg
+Bangkok
+Madrid
+Hangzhou
+Dubai
+Melbourne
+Copenhagen
+Chicago
+Mumbai
+Cairo
+Hanoi
+Amsterdam
+Kyoto
+New York City
+Beijing
+Montreal
+Denver
+Dublin
+Frankfurt
