@@ -296,11 +296,12 @@ def main():
         if not os.path.exists(path):
             os.makedirs(path)
 
-    #####################################################
-    #                For concept_occurrence             #
-    #####################################################
+    
     label_to_prob = gen_label_to_prob(original_dataset_path, test_type)
     print(label_to_prob)
+    #####################################################
+    #        For occurrence_single-word/synonym         #
+    #####################################################
     if shortcut_subtype == 'single-word' or shortcut_subtype == 'synonym':
         add_set_of_words_shortcut(path_list, new_set_path_list, label_to_prob, words_lists[shortcut_subtype], prob_scaling_factors[setting_No], test_type)
 
