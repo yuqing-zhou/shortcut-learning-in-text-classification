@@ -1,5 +1,7 @@
 # Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models
 
+This repository contains the datasets in which we injected three types of shortcuts, the code for preprocessing the original datasets, and the code for fine-tuning BERT.
+
 ## File Structure
 ```
 .
